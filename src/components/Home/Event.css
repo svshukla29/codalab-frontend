@@ -1,0 +1,32 @@
+.events{
+  width: 65vw;
+  padding: 20px;
+  margin-left: 2%;
+  border: 1px solid #090101; 
+  border-radius: 2%;
+}
+
+.events h2 {
+  text-align: center;
+}
+
+.events hr {
+  border: none;
+  border-top: 2px solid #f6b72d;
+  margin: 10px 0;
+}
+
+.event {
+
+  margin-bottom: 20px;
+}
+
+.event h3 {
+  margin: 0;
+  color: #333;
+}
+
+.event p {
+  margin: 5px 0 0;
+  color: #666;
+}

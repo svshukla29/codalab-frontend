@@ -1,0 +1,49 @@
+
+.navbar {
+    width: 15%;
+    position: fixed;
+    right: 80%;
+    top: 12%;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .navbar-title {
+    font-family: 'Abhaya Libre ExtraBold', sans-serif;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .navbar-icon {
+    color: orange;
+    margin-right: 8px;
+  }
+  
+  .navbar-divider {
+    border-top: 1px solid #FCC54C;
+    width: 80%;
+    margin-bottom: 10px;
+  }
+  
+  .navbar-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    margin-bottom: 10px;
+  }
+  
+  .navbar-item a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.3rem;
+    font-family: 'Abhaya Libre Bold', sans-serif;
+  }
+  
+  .navbar-item a:hover {
+    color: orange;
+  }
+  

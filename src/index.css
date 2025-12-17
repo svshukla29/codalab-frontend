@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Poppins', 'sans-serif';
+}
+body{
+    font-family: 'Nunito Sans', 'sans-serif';
+}
+
+/*** Header Css ***/
+header .logo-image{
+    width: 50px;
+}
+header .navigation-menu-wrapper a{
+    color: #141414;
+    text-decoration: none;
+    padding: 5px 10px;
+}
